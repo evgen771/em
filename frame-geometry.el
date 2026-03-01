@@ -1,1 +1,1 @@
-(:width 80 :height 37 :left (+ -61) :top (+ -10))
+(:width 80 :height 37 :left (+ -61) :top (+ -23))
