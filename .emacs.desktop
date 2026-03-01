@@ -1,0 +1,79 @@
+;; -*- mode: emacs-lisp; lexical-binding:t; coding: utf-8-emacs; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Dec 28 22:04:44 2025
+;; Desktop file format version 208
+;; Emacs version 30.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (26961 188 807138 405000) (desktop . "208") "jenit@bsd" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font . "-GOOG-Noto Sans-regular-normal-normal-*-17-*-*-*-*-0-iso10646-1") (border-width . 0) (internal-border-width . 0) (child-frame-border-width) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#f6f3e8") (background-color . "#242424") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 1) (tab-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 16) (scroll-bar-height . 16) (alpha) (alpha-background) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (use-frame-synchronization) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "yellow") (font-parameter) (sticky) (shaded) (environment) (dnd-root-window-position) (last-focus-update . t) (frameset--id . "A786-6A92-10E9-1986") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (height . 37) (width . 120) (left . 591) (top . 87)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 96) (min-pixel-width . 90) (min-pixel-height-ignore . 72) (min-pixel-width-ignore . 36) (min-pixel-height-safe . 24) (min-pixel-width-safe . 18)) leaf (pixel-width . 1096) (pixel-height . 864) (total-width . 121) (total-height . 36) (normal-height . 1.0) (normal-width . 1.0) (buffer "~" (selected . t) (hscroll . 0) (fringes 8 8 nil nil) (margins nil) (scroll-bars nil 0 t nil 0 t nil) (vscroll . 0) (dedicated) (point . 1636) (start . 1)) (prev-buffers ("~" 1 1636) ("/" 1 192))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/home/jenit" "/" "~/" "~/Music" "~/Music/Наша_Дарья" "~/"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  nil
+  "~"
+  'dired-mode
+  '(tab-line-mode visual-line-mode font-lock-mode)
+  1636
+  '(337 nil)
+  t
+  '("/home/jenit/")
+  '((buffer-display-time 26961 175 64740 158000) (truncate-lines))
+  '((mark-ring (458 4))))
+
+(desktop-create-buffer 208
+  nil
+  "/"
+  'dired-mode
+  '(tab-line-mode visual-line-mode font-lock-mode)
+  192
+  '(nil nil)
+  t
+  '("/")
+  '((buffer-display-time 26961 116 282719 125000) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/jenit/.bashrc"
+  ".bashrc"
+  'sh-mode
+  '(tab-line-mode sh-electric-here-document-mode visual-line-mode font-lock-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 26961 39 294237 466000) (buffer-file-coding-system . utf-8-unix) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/jenit/.Xauthority"
+  ".Xauthority"
+  'fundamental-mode
+  '(tab-line-mode visual-line-mode font-lock-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 26961 57 300732 483000) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "home"
+  'dired-mode
+  '(tab-line-mode visual-line-mode font-lock-mode)
+  177
+  '(3 nil)
+  t
+  '("/home/")
+  '((buffer-display-time 26961 173 366317 618000) (truncate-lines))
+  '((mark-ring (177 174 177))))
+

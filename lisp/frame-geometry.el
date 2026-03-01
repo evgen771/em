@@ -1,0 +1,1 @@
+(:width 125 :height 29 :left 527 :top 47)

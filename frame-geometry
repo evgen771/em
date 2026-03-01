@@ -1,0 +1,2 @@
+(set-frame-position (selected-frame) 523 145)
+(set-frame-size (selected-frame) 80 36 t)
